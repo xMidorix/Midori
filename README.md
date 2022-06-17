@@ -18,6 +18,13 @@ Future Updates
 
 ---
 
+```js
+gh repo clone xMidorix/Midori
+
+git@github.com:xMidorix/Midori.git
+
+https://github.com/xMidorix/Midori.git```
+
 
 
 
